@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying/working at UM as a Ph.D student.
 - 🌱 I’m currently learning DL, DM, RS.
 - 🤔 I’m looking for help with u.
-- ⚡ Fun fact: I also like table tennis. 
+- ⚡ Fun fact: My Erdős distance is 4. 
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umsimonchen&show_icons=true&include_all_commits=true" />
 </div>
