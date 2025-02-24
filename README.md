@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying/working at UM as a Ph.D student.
 - 🌱 I’m currently learning DL, DM, RS.
 - 🤔 I’m looking for help with u.
-- ⚡ Fun fact: My Erdős distance is 4 (cf. https://www.csauthors.net/distance).
+- ⚡ Fun fact: My Erdős distance is 4 (cf. [https://www.csauthors.net/distance](https://www.csauthors.net/distance/ximing-chen-002/paul-erdos)).
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umsimonchen&show_icons=true&include_all_commits=true" />
 </div>
