@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with u.
 - ⚡ Fun fact: My Erdős distance is 4 (cf. [https://www.csauthors.net/distance](https://www.csauthors.net/distance/ximing-chen-002/paul-erdos)).
 <div align="center">
-<a href="https://info.flagcounter.com/gzkn"><img src="https://s01.flagcounter.com/count2/gzkn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://www.flagcounter.me/details/gTd"><img src="https://www.flagcounter.me/gTd/" alt="Flag Counter"></a>
 </div>
 <!--
 **umsimonchen/umsimonchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
