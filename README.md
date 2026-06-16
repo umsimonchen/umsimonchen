@@ -1,6 +1,6 @@
 ### 👋 Hi. I'm Simon Chen.
 - 🔭 I’m currently studying/working at UM as a Ph.D student.
-- 🌱 I’m currently learning DL, DM, RS.
+- 🌱 I’m currently learning DM, RS, and Agent.
 - 🤔 I’m looking for help with u.
 - ⚡ Fun fact: My Erdős distance is 4 (cf. [https://www.csauthors.net/distance](https://www.csauthors.net/distance/ximing-chen-002/paul-erdos)).
 <div align="center">
