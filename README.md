@@ -6,6 +6,7 @@
 <div align="center">
 <a href="https://www.flagcounter.me/details/gTd"><img src="https://www.flagcounter.me/gTd/" alt="Flag Counter"></a>
 </div>
+Avatar credit: <a href="https://www.pixiv.net/users/100353590">ﾏｶﾛﾈ</a>
 <!--
 **umsimonchen/umsimonchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
