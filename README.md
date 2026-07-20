@@ -6,7 +6,7 @@
 <div align="center">
 <a href="https://www.flagcounter.me/details/gTd"><img src="https://www.flagcounter.me/gTd/" alt="Flag Counter"></a>
 </div>
-![](https://github-visitor-counter-tau.vercel.app/api?username=umsimonchen&displayMode=topCountries&columns=8&maxflags=250&showlabels=true)
+
 Avatar credit: <a href="https://www.pixiv.net/users/100353590">ﾏｶﾛﾈ</a>
 <!--
 **umsimonchen/umsimonchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
