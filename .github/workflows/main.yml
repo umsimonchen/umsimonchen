@@ -1,0 +1,26 @@
+  name: Refresh Flag Counter
+  on:
+    schedule:
+      # 每天 UTC 03:17 跑一次(故意避开整点,GitHub cron 高峰在整点)
+      - cron: '17 3 * * *'
+    workflow_dispatch:  # 也允许你在 Actions 页面手动点一下立刻跑
+
+  permissions:
+    contents: write
+
+  jobs:
+    refresh:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - name: Bump cache buster
+          run: |
+            TS=$(date -u +%Y%m%d)
+            # 把 README 里 flagcounter 那行的 v= 值替换成今天
+            sed -i -E "s|(https://www\.flagcounter\.me/gTd/\?v=)[^\"]*|\1${TS}|g" README.md
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            # 只有真的改动了才 commit(避免空提交)
+            git diff --cached --quiet || git commit -m "chore: refresh flag counter cache buster"
+            git push
