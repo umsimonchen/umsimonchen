@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with u.
 - ⚡ Fun fact: My Erdős distance is 4 (cf. [https://www.csauthors.net/distance](https://www.csauthors.net/distance/ximing-chen-002/paul-erdos)).
 <div align="center">
-<a href="https://www.flagcounter.me/details/gTd"><img src="https://www.flagcounter.me/gTd/?v=20260824" alt="Flag Counter"></a>
+<a href="https://www.flagcounter.me/details/gTd"><img src="https://www.flagcounter.me/gTd/?v=20260825" alt="Flag Counter"></a>
 </div>
 
 Avatar credit: <a href="https://www.pixiv.net/users/100353590">ﾏｶﾛﾈ</a>
